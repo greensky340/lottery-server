@@ -1,0 +1,13 @@
+{
+  "name":"zwframe",
+  "desc":"zw php framework",
+  "type":"framework",
+  "keyword":[
+    "PHP","PHPFRAME"
+  ],
+  "require": {
+    "php":">=5.3.0",
+    "filp/whoops":"*",
+    "symfony/var-dumper":"*"
+  }
+}
